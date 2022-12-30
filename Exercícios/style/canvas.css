@@ -1,0 +1,14 @@
+@charset "UTF=8";
+
+* {
+    margin: 0;
+    padding: 10px;
+}
+
+canvas {
+    width: 600px;
+    height: 600px;
+    border: 2px solid #000;
+    background: rgb(185, 185, 7);
+    border-radius: 0.7rem;
+}
